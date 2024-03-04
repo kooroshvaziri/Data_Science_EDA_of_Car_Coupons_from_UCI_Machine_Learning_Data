@@ -1,6 +1,6 @@
 # Will a Customer Accept the Coupon?
 
-The data for this practical project is from the UCI Machine Learning collected by an Amazon Mechanical Turk's survey. The goal is to find insights about the data through exploratory data analysis (EDA), so it can be used to train machine learning (ML) models to predict the outcome. The original data has 12684 rows in 26 columns.
+The data for this practical project is from the UCI Machine Learning collected by an Amazon Mechanical Turk's survey. The goal is to find insights about the data through exploratory data analysis (EDA), so it can be used to train machine learning (ML) models to predict the outcome. The original data has 12684 rows in 26 columns as seen in the accompanied [Jupyter notebook](prompt.ipynb).
 
 ## Data Cleaning
 
